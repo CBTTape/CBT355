@@ -1,0 +1,6 @@
+2023-08-06 03:36:31.597266 - Initialized conversion of CBT355
+2023-08-06 03:36:31.642852 - Received CBT.V505.FILE355.PDS from FILE355.XMI 
+2023-08-06 03:36:31.645005 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE355.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:36:31.645905 - Found @FILE355.txt (text/plain) in CBT.V505.FILE355.PDS, moved to PDS/@FILE355
+2023-08-06 03:36:31.647156 - Found KONCAT.jcl (text/plain) in CBT.V505.FILE355.PDS, moved to PDS/KONCAT
+2023-08-06 03:36:31.648161 - Found KONCAT#.txt (text/plain) in CBT.V505.FILE355.PDS, moved to PDS/KONCAT#
